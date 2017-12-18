@@ -28,7 +28,7 @@ This repo contains sample code to get you up and running with a basic template f
 
 The steps to use or view this project are:
 
-1. Install the dependencies `budo` to run application
+1. Install the dependencies to run application
 2. Run the project to experience some cool stuff
 
 Run these steps using the following commands:
@@ -39,4 +39,3 @@ npm start
 ```
 - C
 
-TO DO `Fix memory leaks`
