@@ -1,4 +1,3 @@
-import Expo, { Asset } from 'expo';
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
@@ -7,8 +6,6 @@ global.THREE = THREE;
 require('./OBJLoader')
 import ExpoTHREE from 'expo-three';
 console.disableYellowBox = true;
-
-// const fabric_material = require('./model/dana.png')
 
 export default class App extends React.Component {
   state = {
