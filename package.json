@@ -1,8 +1,8 @@
 {
   "name": "venus-ar",
   "version": "0.0.0",
-  "description": "Hello Expo!",
-  "author": null,
+  "description": "AR Experiment",
+  "author": "Carlos Angon",
   "private": true,
   "main": "node_modules/expo/AppEntry.js",
   "dependencies": {
