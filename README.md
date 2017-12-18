@@ -2,9 +2,9 @@
 AR visualizer of the Venus de Milo
 <br/>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZTInc3lfebo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+# Demo  <a src="https://www.youtube.com/embed/ZTInc3lfebo"> here </a>
 
-This repo uses React Native, threejs and ARKit to create a visual experience. 
+This repo uses React Native, Threejs and ARKit to create a visual experience. 
 
 ## How to use this repository
 
